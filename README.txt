@@ -5,8 +5,6 @@ Isi folder:
 - profil.html      : halaman profil lengkap, program, dan tabel kegiatan
 - style.css        : semua aturan styling CSS
 - assets/          : ilustrasi SVG untuk website
-- screenshots/     : tangkapan layar halaman website
-- naskah-demo.txt  : panduan penjelasan video demonstrasi 5-10 menit
 
 Cara menjalankan:
 1. Ekstrak ZIP.
